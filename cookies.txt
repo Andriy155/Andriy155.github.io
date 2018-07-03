@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pleinair.myinsales.ru	TRUE	/	FALSE	1999999999	first_current_location	%2Frobots.txt
+pleinair.myinsales.ru	TRUE	/	FALSE	1999999999	current_location	%2Frobots.txt
+pleinair.myinsales.ru	TRUE	/	FALSE	1999999999	request_method	GET
+pleinair.myinsales.ru	TRUE	/	FALSE	1999999999	ins_order_version	1530643689.2840512
+.ionicframework.com	TRUE	/	FALSE	1999999999	__cfduid	d6c5c9f91c91c0bda4ac560a65faee44c1530643696
+

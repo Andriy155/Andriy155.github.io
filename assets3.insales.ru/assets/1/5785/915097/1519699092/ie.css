@@ -1,0 +1,4 @@
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  /* line 3, ie.scss */
+  .form-label {
+    padding: 0 .7em; } }

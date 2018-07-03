@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Jul 2018 21:48:09 at http://pleinair.myinsales.ru +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%h%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://pleinair.myinsales.ru -O1 "C:\Users\Андрій\Documents\iuhgbnmkj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:48:09	Warning: 	Note: due to pleinair.myinsales.ru remote robots.txt rules, links beginning with these path will be forbidden: /cart_items, /product_by_id, /auth, /login, /orders, /client_account, /admin, /search, /search_suggestions, /bank_receipts, /bank_ru_receipts, /juridical_person_receipts, /compares, /captchas, /ru_captcha, *?*theme_preview, *?*theme_preview_disable, /*/reviews, *?*options, *?*characteristics, *?*price_min, *?*price_max, *?*order, *?*page_size (see in the options to disable this)
+21:50:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): pleinair.myinsales.ru/served_assets/shop/demoshop_panel-018564ef5c99ab59c0936b1891ba38e6.css
+21:50:42	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/'/page/oferta' (from pleinair.myinsales.ru/)
+21:52:49	Warning: 	can not create directory to C:/Users/Андрій/Documents/iuhgbnmkj/yastatic.net/share2/share.js.z
+21:52:49	Error: 	Unable to save file C:/Users/Андрій/Documents/iuhgbnmkj/yastatic.net/share2/share.js: No error
+21:54:54	Error: 	"Not Found" (404) at link https://assets3.insales.ru/assets/1/5785/915097/1519699092/lines-tile.png (from https://assets3.insales.ru/assets/1/5785/915097/1519699092/theme.css)
+21:54:54	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/collection/'/page/oferta' (from pleinair.myinsales.ru/collection/all)
+21:55:39	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/page/'/page/oferta' (from pleinair.myinsales.ru/page/about-us)
+21:58:33	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/product/'/page/oferta' (from pleinair.myinsales.ru/product/divan-marlborough-ot-eichholtz)
+21:58:33	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/blogs/blog/'/page/oferta' (from pleinair.myinsales.ru/blogs/blog/third)
+21:58:37	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/blogs/'/page/oferta' (from pleinair.myinsales.ru/blogs/blog)
+21:58:37	Error: 	"Not Found" (404) at link pleinair.myinsales.ru/blogs/blog/tags/'/page/oferta' (from pleinair.myinsales.ru/blogs/blog/tags/teg-1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 28 seconds : 531 links scanned, 522 files written (29152366 bytes overall) [29651386 bytes received at 47215 bytes/sec]
+(9 errors, 3 warnings, 0 messages)

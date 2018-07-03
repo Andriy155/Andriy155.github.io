@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru-RU" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:pleinair.myinsales.ru,2005:/blogs/blog</id>
+  <link rel="alternate" type="text/html" href="http://pleinair.myinsales.ru/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="http://pleinair.myinsales.ru/blogs/blog.atom"/>
+  <title>Блог</title>
+  <updated>2017-04-19T12:00:00+03:00</updated>
+  <entry>
+    <id>tag:pleinair.myinsales.ru,2005:Article/326951</id>
+    <published>2017-04-19T12:01:15+03:00</published>
+    <updated>2017-04-24T14:08:49+03:00</updated>
+    <link rel="alternate" type="text/html" href="http://pleinair.myinsales.ru/blogs/blog/third"/>
+    <title>Третья новость интернет-магазина</title>
+    <content type="html">&lt;p&gt;&lt;span&gt;Поздравляем! Это третья новость в интернет-магазине.&lt;/span&gt;&lt;/p&gt;</content>
+    <logo>https://static-eu.insales.ru/images/articles/1/3785/118473/thumb_large_oformlenie-gostinnoy.jpg</logo>
+    <icon>https://static-eu.insales.ru/images/articles/1/3785/118473/thumb_large_oformlenie-gostinnoy.jpg</icon>
+    <author>
+      <name>InSales</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:pleinair.myinsales.ru,2005:Article/326950</id>
+    <published>2017-04-19T12:00:36+03:00</published>
+    <updated>2017-04-24T14:08:43+03:00</updated>
+    <link rel="alternate" type="text/html" href="http://pleinair.myinsales.ru/blogs/blog/second"/>
+    <title>Вторая новость интернет-магазина</title>
+    <content type="html">&lt;p&gt;&lt;span&gt;Поздравляем! Это вторая новость в интернет-магазине.&lt;/span&gt;&lt;/p&gt;</content>
+    <logo>https://static-eu.insales.ru/images/articles/1/3786/118474/thumb_large_krovat.jpg</logo>
+    <icon>https://static-eu.insales.ru/images/articles/1/3786/118474/thumb_large_krovat.jpg</icon>
+    <author>
+      <name>InSales</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:pleinair.myinsales.ru,2005:Article/288436</id>
+    <published>2016-01-31T00:00:00+03:00</published>
+    <updated>2017-04-24T14:08:16+03:00</updated>
+    <link rel="alternate" type="text/html" href="http://pleinair.myinsales.ru/blogs/blog/first"/>
+    <title>Первая новость магазина</title>
+    <content type="html">&lt;p&gt;Поздравляем!&lt;/p&gt;
+&lt;p&gt;Это первая новость в интернет-магазине.&lt;/p&gt;</content>
+    <logo>https://static-eu.insales.ru/images/articles/1/3787/118475/thumb_large_divan.jpg</logo>
+    <icon>https://static-eu.insales.ru/images/articles/1/3787/118475/thumb_large_divan.jpg</icon>
+    <author>
+      <name>Тест</name>
+    </author>
+  </entry>
+</feed>
